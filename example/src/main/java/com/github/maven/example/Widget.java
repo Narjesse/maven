@@ -30,7 +30,7 @@ public class Widget {
 	 * @return this widget
 	 */
 	public Widget setEnabled(boolean enabled) {
-		this.enabled = enabled;
+		this.enabled = enable;
 		return this;
 	}
 }
